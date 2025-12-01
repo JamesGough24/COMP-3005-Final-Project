@@ -2,19 +2,20 @@
 
 ## 1. Project Structure
 fitclub/
-    pom.xml
-    sql/
-        DDL.sql
-        DML.sql
-    app/
-        org/fitclub/
-            Main.java
-            DatabaseConnection.java
-            MemberOperations.java
-            TrainerOperations.java
-            AdminOperations.java
-    docs/
-        ERD.pdf
+├── pom.xml
+├── sql/
+│ ├── DDL.sql
+│ └── DML.sql
+├── app/
+│ └── org/
+│     └── fitclub/
+│         ├── Main.java
+│         ├── DatabaseConnection.java
+│         ├── MemberOperations.java
+│         ├── TrainerOperations.java
+│         └── AdminOperations.java
+├── docs/
+│ └── ERD.pdf
 
 ## 2. Requirements
 - Java 17 or higher  
