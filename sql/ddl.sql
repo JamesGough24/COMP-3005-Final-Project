@@ -272,8 +272,6 @@ FROM Member m;
 
 -- INDEX: Speed up member email lookups
 CREATE INDEX idx_member_email ON Member(email);
-
--- Additional useful indexes
 CREATE INDEX idx_class_registration_member ON ClassRegistration(member_id);
 CREATE INDEX idx_class_registration_class ON ClassRegistration(class_id);
 CREATE INDEX idx_health_metric_member_date ON HealthMetric(member_id, date_recorded DESC);
