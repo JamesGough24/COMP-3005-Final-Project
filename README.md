@@ -3,7 +3,7 @@
 ## 1. Project Structure
 ```
 fitclub/
-├── pom.xml
+├── pom.xml # Since I used Maven
 ├── sql/
 │   ├── DDL.sql
 │   └── DML.sql
