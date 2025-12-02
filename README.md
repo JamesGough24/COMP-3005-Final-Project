@@ -47,7 +47,9 @@ private static final String PASSWORD = "your_password";
 
 ### Step 3: Build the project
 From the fitclub directory (where pom.xml is located), run:
+```
 mvn clean compile
+```
 
 ### Step 4: Run the program
 Run using Maven:
