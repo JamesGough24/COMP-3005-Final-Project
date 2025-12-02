@@ -63,4 +63,4 @@ java -cp app org.fitclub.Main
 
 ## 4. Demo Video
 The video demonstrating the whole project is an unlisted YouTube video and can be found at:
-https://youtu.be/4fPuY0K-wyI
+https://youtu.be/Y7Yt0YvT-3Y
